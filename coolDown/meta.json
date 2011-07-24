@@ -1,1 +1,4 @@
-{ "repo": "git://github.com/wereHamster/coolDown.git" }
+{
+  "repo": "git://github.com/wereHamster/coolDown.git",
+  "description": "The coolDown addon displays your spell and item cooldowns. It shows the spell or item icon, the remaining time and a bar which gives you a visual cue how long you'll have to wait."
+}
